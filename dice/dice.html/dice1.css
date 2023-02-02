@@ -1,0 +1,40 @@
+body
+{
+    background-color:blueviolet;
+}
+.dice
+{
+    margin:auto;
+    display: flex;
+    justify-content: center;
+    margin-top:50px ;
+    gap: 100px;
+}
+.wrapper
+{
+    text-align: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    gap: 50px;   
+}
+
+
+
+.d1
+{
+   display: inline-block;
+}
+.d2
+{
+    display: inline-block;
+  
+}
+.welcome
+{
+    text-align: center;
+}
+.h1
+{
+    text-align: center;
+}
